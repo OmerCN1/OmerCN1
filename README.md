@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:6A3FBF,100:8A63D2&section=header" />
+</p>
+
 <h1 align="center">Hi, I'm Ömer 👋</h1>
 
 <p align="center">
@@ -99,3 +103,7 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:6A3FBF,100:8A63D2" />
+</p>
