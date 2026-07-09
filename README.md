@@ -17,6 +17,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A63D2&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Building+Mobile+%26+Web+Apps;Always+learning%2C+always+shipping." />
+</p>
+
 ---
 
 ### About Me
