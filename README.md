@@ -29,7 +29,7 @@
 
 ### About Me
 
-- 🎓 3rd-year **Software Engineering** student at Doğuş University
+- 🎓 4rd-year **Software Engineering** student at Doğuş University
 - 🌍 Based in Istanbul, Türkiye
 - 💻 Currently focused on **Mobile and Web development** (C#, React, Flutter)
 - 🚀 I enjoy exploring new technologies and building product-driven projects
